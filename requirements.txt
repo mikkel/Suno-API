@@ -4,3 +4,6 @@ fastapi
 uvicorn
 pydantic
 requests
+
+# GHSA-6q48-6c7w-9gw2: remove compromised CA trust.
+certifi>=2026.10.19
